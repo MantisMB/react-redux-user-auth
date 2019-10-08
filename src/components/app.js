@@ -1,6 +1,6 @@
 import React from 'react';
 import 'materialize-css/dist/css/materialize.min.css';
-import Route from 'react-router-dom';
+import {Route} from 'react-router-dom';
 import Nav from './nav';
 import About from './about';
 import SecretList from './secret_list';
